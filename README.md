@@ -24,8 +24,10 @@ Created by: **Nov0502**
 ---
 
 ## 🛠️ Supported Environments
-Device: POCO X3 GT / Redmi Note 10 Pro 5G (chopin) (just try)
+Device: POCO X3 GT / Redmi Note 10 Pro 5G (chopin)
+
 SoC: MediaTek Dimensity 1100 (MT6891)
+
 ROM: MIUI 12.5 / 13 / 14 / HyperOS / AOSP (Android 11 - 14)
 
 ---
