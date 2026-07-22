@@ -16,6 +16,8 @@ Created by: **Nov0502**
   ```text
   WThermal Chopin
   CPU: 42°C  |  Batt: 36°C  |  🟢 UNTHROTTLED
+<img width="1080" height="944" alt="image" src="https://github.com/user-attachments/assets/5b2e7dcb-436d-4e3e-8cd0-31ea4596b58d" />
+
 * 📱 MediaTek Dimensity 1100 Dynamic Sensor Engine: Features dynamic case-insensitive MTK thermal zone discovery for accurate temperature reporting across all custom kernels.
 * 📝 Real-time Logging System: Logs all temperature transitions to /sdcard/wthermal.log for instant verification.
 
