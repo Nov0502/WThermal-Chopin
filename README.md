@@ -10,8 +10,8 @@ Created by: **Nov0502**
 
 * 🔓 **Default Unthrottled Performance**: Disables Xiaomi thermal throttling daemons (`mi_thermald`, `thermal_manager`, `thermalload`, `thermald`) and locks performance mode (`sconfig 10`) for maximum FPS during gaming.
 * 🛡️ **Intelligent Thermal Safety Guard**: Monitors hardware temperatures every 2 seconds and automatically re-enables thermal protection if safety thresholds are breached:
-  * 🔴 **Limit Active**: Triggered if CPU $\ge 78^\circ\text{C}$ **OR** Battery $\ge 49^\circ\text{C}$.
-  * 🟢 **Release Unthrottled**: Restored when CPU $< 75^\circ\text{C}$ **AND** Battery $< 46^\circ\text{C}$.
+  * 🔴 **Limit Active**: Triggered if Battery $\ge 49^\circ\text{C}$.
+  * 🟢 **Release Unthrottled**: Restored when Battery $< 46^\circ\text{C}$.
 * 📊 **Native Ongoing Status Notification**: Bundles a lightweight Foreground Service APK (`WThermalNotifier.apk`) to display live real-time CPU & Battery temperature tracking directly in your notification shade:
   ```text
   WThermal Chopin
