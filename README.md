@@ -1,4 +1,4 @@
-# 🌡️ WThermal Chopin (v1.0.0)
+# 🌡️ WThermal Chopin
 
 **WThermal Chopin** is an intelligent dynamic thermal management module specifically designed for **POCO X3 GT / Redmi Note 10 Pro 5G (`chopin`)** powered by the **MediaTek Dimensity 1100** processor.
 
@@ -42,6 +42,6 @@ sh
 ```text
 cat /sdcard/wthermal.log
 ```
-
-**Author**: @Nov0502
-lol
+---
+**Author**: @Nov0502  
+**License**: Open Source / Free to use for POCO X3 GT community.
